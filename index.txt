@@ -1,2 +1,2 @@
-<<<<<< HEAD.txt[+] [dos] (10:24 25/04/2024)
-fix iss1234123sue 53
+<<<<<< HEAD >>>>>>>
+fix isssue 53 from main
